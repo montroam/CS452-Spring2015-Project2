@@ -1,3 +1,10 @@
-name, date, description
+ALLISON MONTROY, SARAH SELBY, 4/25/15, PROJECT 2
 
-be sure to include complete details of how to interact with your application
+We worked off of our original game, brought it into 3D, 
+and changed it so that you now get points for running into the shapes rather than avoiding them.
+
+The controls are WASD, and are used to move L-R, and UP-DOWN.
+
+The score increases whenever you run into a shape/ or it runs through you. 
+
+The goals of the game is to see how high of a score you can get in approx. 60s.
